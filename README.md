@@ -1,6 +1,6 @@
 # BOOK: Materials
 
-> __TODO:__ Create a new repo from this template and update the readme as appropriate.
+> __TODO:__ Create a new repo from this template, create the requisite editions/x.x branch, add the book team with Write access, and update references in this readme as appropriate.
 
 
 This repo contains all the downloadable materials and projects associated with the **[BOOK](https://store.raywenderlich.com/)** from [raywenderlich.com](https://www.raywenderlich.com).
