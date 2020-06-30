@@ -9,7 +9,7 @@ Each edition has its own branch, named `editions/[EDITION]`. The default branch 
 
 ## Release History
 
-| Branch                                                                  | Edition | Release Date |
-| ----------------------------------------------------------------------- |:-------:|:------------:|
-| [editions/1.0](https://github.com/raywenderlich/NAME/tree/editions/1.0) | 1.0     | 2020-01-01   |
+| Branch                                                                            | Edition | Release Date |
+| --------------------------------------------------------------------------------- |:-------:|:------------:|
+| [editions/1.0](https://github.com/raywenderlich/TODO-materials/tree/editions/1.0) | 1.0     | YYYY-MM-DD   |
 
