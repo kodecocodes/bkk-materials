@@ -15,5 +15,5 @@ We’ve set up an official forum for the book at [https://forums.kodeco.com/c/bo
 
 | Branch                                                                            | Edition | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
-| [editions/1.0](https://github.com/raywenderlich/TODO-materials/tree/editions/1.0) | 1.0     | YYYY-MM-DD   |
+| [editions/1.0](https://github.com/kodecocodes/TODO-materials/tree/editions/1.0) | 1.0     | YYYY-MM-DD   |
 
